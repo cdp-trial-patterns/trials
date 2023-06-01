@@ -22,7 +22,7 @@ Note : Your email will already be added to the include list of Trials by your po
 ![Screenshot20230601at125303PM.png](images/Screenshot20230601at125303PM.png)
 
 - Once you login, you will be taken to your Trial Home Page. 
-  - Click **Start Trial** to go to CDP.
+  - Click **Start Trial** to go to CDP
   - Click **View Demo** to go to Tutorials to use different features of CDP with regard to Open Data Lakehouse use case
   - Click **Get Started with CDP** to request deployment of CDP in your Cloud
   - Click **End Trial** 
@@ -30,4 +30,11 @@ Note : Your email will already be added to the include list of Trials by your po
     - Click **Get Started with CDP** to request deployment of CDP in your Cloud
     - Click **End Trial** to end your Trial
 
+![Screenshot20230531at51203PM.png](images/Screenshot20230531at51203PM.png)
+
+- Click **Start Trial** to go to CDP Public Cloud Home Page (Note the Trial Header on top). 
+
+![Screenshot20230531at51240PM.png](images/Screenshot20230531at51240PM.png)
+
+- Services specific to your pattern will be available in the Trial. Try CDP and reach out to us at cdptrial@cloudera.com for any questions!
 
