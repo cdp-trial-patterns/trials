@@ -11,6 +11,23 @@ CDP Public Cloud Trials is based on use cases that you use most often -
 
 ### Start your Trial
 
-- Go to trial URL provided in your email, select the pattern you want to try, click ‘Start trial’
+- Go to trial URL provided in your email, click on the use case you want to try (_**Try All In One Open Data Lakehouse**_ for Open Data Lakehouse pattern)
+
+![Screenshot20230531at51048PM.png](images/Screenshot20230531at51048PM.png)
+
+- If you are already registered with Cloudera, use your email to login, else Register your email by clicking **Register Now** 
+
+Note : Your email will already be added to the include list of Trials by your point of contact at Cloudera, if not, please reach out to your point of contact or send an email to cdptrial@cloudera.com. You will not be able to use Trials if your email or your organization's domain is not in the include list of Trials. You will still need to register with Cloudera verifying your email.
+
+![Screenshot20230601at125303PM.png](images/Screenshot20230601at125303PM.png)
+
+- Once you login, you will be taken to your Trial Home Page. 
+  - Click **Start Trial** to go to CDP.
+  - Click **View Demo** to go to Tutorials to use different features of CDP with regard to Open Data Lakehouse use case
+  - Click **Get Started with CDP** to deploy CDP in your Cloud
+  - Click **End Trial** to
+   - **Request Extension** to extend beyond 5 days
+   - **Get Started with CDP** to deploy CDP in your Cloud
+   - **End Trial** to end your Trial
 
 
