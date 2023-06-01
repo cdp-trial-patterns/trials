@@ -24,10 +24,10 @@ Note : Your email will already be added to the include list of Trials by your po
 - Once you login, you will be taken to your Trial Home Page. 
   - Click **Start Trial** to go to CDP.
   - Click **View Demo** to go to Tutorials to use different features of CDP with regard to Open Data Lakehouse use case
-  - Click **Get Started with CDP** to deploy CDP in your Cloud
-  - Click **End Trial** to
-   - **Request Extension** to extend beyond 5 days
-   - **Get Started with CDP** to deploy CDP in your Cloud
-   - **End Trial** to end your Trial
+  - Click **Get Started with CDP** to request deployment of CDP in your Cloud
+  - Click **End Trial** 
+    - Click **Request Extension** to extend beyond 5 days
+    - Click **Get Started with CDP** to request deployment of CDP in your Cloud
+    - Click **End Trial** to end your Trial
 
 
