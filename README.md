@@ -26,7 +26,7 @@ Note : Your email will already be added to the include list of Trials by your po
 
 - Once you login, you will be taken to your Trial Home Page. 
   - Click **Start Trial** to go to CDP
-  - Click **Read GitHub Tutorial** to go to Tutorials to use different features of CDP with regard to Open Data Lakehouse use case
+  - Click **Read GitHub Tutorial** to go to Tutorials to use different features of CDP with regard to your use case
   - Click **Manage Trial** in the upper right corner to manage your Trial
     - Click **Purchase CDP** to request deployment of CDP in your Cloud
     - Click **Extend Trial** to request extension of your Trial
